@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/GameController.cs">
+    <Files>
+      <File FileName="Assets/_Scripts/Zombie/ZombieNavigation.cs" Line="27" Column="43" />
+      <File FileName="Assets/_Scripts/GameController.cs" Line="99" Column="19" />
+      <File FileName="Assets/_Scripts/Player/PlayerCllider.cs" Line="52" Column="24" />
+      <File FileName="Assets/_Scripts/Zombie/ZombieController.cs" Line="19" Column="26" />
+      <File FileName="Assets/_Scripts/Player/PlayerMovement.cs" Line="63" Column="18" />
+      <File FileName="Assets/_Scripts/Camera/CamerasController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

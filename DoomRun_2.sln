@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoomRun_2.Plugins", "DoomRun_2.Plugins.csproj", "{EC620343-AB58-0606-C46A-231E88004346}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoomRun_2", "DoomRun_2.csproj", "{94573556-A93C-7944-02A4-FBC4221B08A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoomRun_2.Editor.Plugins", "DoomRun_2.Editor.Plugins.csproj", "{A2900D95-3496-D777-2168-FE0EF9BC3F78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC620343-AB58-0606-C46A-231E88004346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC620343-AB58-0606-C46A-231E88004346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC620343-AB58-0606-C46A-231E88004346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC620343-AB58-0606-C46A-231E88004346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94573556-A93C-7944-02A4-FBC4221B08A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94573556-A93C-7944-02A4-FBC4221B08A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94573556-A93C-7944-02A4-FBC4221B08A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94573556-A93C-7944-02A4-FBC4221B08A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2900D95-3496-D777-2168-FE0EF9BC3F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2900D95-3496-D777-2168-FE0EF9BC3F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2900D95-3496-D777-2168-FE0EF9BC3F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2900D95-3496-D777-2168-FE0EF9BC3F78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

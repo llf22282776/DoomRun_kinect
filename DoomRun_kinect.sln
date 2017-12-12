@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoomRun_kinect.Plugins", "DoomRun_kinect.Plugins.csproj", "{1F2B9EFB-26CB-996B-7D2F-AA26919E0FCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoomRun_kinect", "DoomRun_kinect.csproj", "{190CE398-92D8-0079-58D3-CC91B352EDF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoomRun_kinect.Editor.Plugins", "DoomRun_kinect.Editor.Plugins.csproj", "{689FA4E7-92C3-FE23-09BC-E0989F9E6CA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F2B9EFB-26CB-996B-7D2F-AA26919E0FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2B9EFB-26CB-996B-7D2F-AA26919E0FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2B9EFB-26CB-996B-7D2F-AA26919E0FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2B9EFB-26CB-996B-7D2F-AA26919E0FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{190CE398-92D8-0079-58D3-CC91B352EDF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190CE398-92D8-0079-58D3-CC91B352EDF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190CE398-92D8-0079-58D3-CC91B352EDF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190CE398-92D8-0079-58D3-CC91B352EDF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{689FA4E7-92C3-FE23-09BC-E0989F9E6CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689FA4E7-92C3-FE23-09BC-E0989F9E6CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689FA4E7-92C3-FE23-09BC-E0989F9E6CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689FA4E7-92C3-FE23-09BC-E0989F9E6CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
